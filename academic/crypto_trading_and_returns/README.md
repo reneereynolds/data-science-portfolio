@@ -1,3 +1,6 @@
+This is one of the assignments that I'm most proud of from an elective course during my master's program. It serves as a sample of my coding as well as communication abilities.
+
+
 # Data Science Project – Cryptocurrency Returns and Trading Venues
 
 ## Scenario 
