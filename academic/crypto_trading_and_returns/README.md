@@ -1,4 +1,4 @@
-This is one of the assignments that I'm most proud of from an elective course during my master's program. It serves as a sample of my coding as well as communication abilities.
+**NOTE: This is one of the assignments that I'm most proud of from an elective course during my master's program. It serves as a sample of my coding (crypto_trading_and_returns.ipynb) as well as communication (memo_writeup.docx) abilities.**
 
 
 # Data Science Project – Cryptocurrency Returns and Trading Venues
